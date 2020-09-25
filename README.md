@@ -1,1 +1,1 @@
-# mantis-trading
+# Mantis Trading
