@@ -13,9 +13,11 @@ Mantis Trading is a trading firm that uses algorythmic trading to accumulate cry
 
 ### Files in this Repository
 In the mantis-trading folder, you may find the following files:
-* **initialize.py**:
-* **mantis.py**:
-* **df_candles_kraken_btcusd_6h_append_9102.csv**:
+* **initialize.py**: Initializes the trading and pulls API keys. 
+* **df_candles_kraken_btcusd_6h_append_9102.csv**: Data used to train the model in mantis.py
+* **mantis.py**: Prediction software. This is the algorythm used that determines the investment strategy for any given moment. 
+* **strategy.py**: Trading software. Executes the trading strategy on Kraken or any other exchange.
+* **monitor.py**: Performance softwarte. Used to monitor the peformance of the algorythm through the use of visuals.
 
 
 ## How does Mantis Trading predict Bitcoin's performance?
