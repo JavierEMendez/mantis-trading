@@ -19,6 +19,12 @@ In the mantis-trading folder, you may find the following files:
 * **strategy.py**: Trading software. Executes the trading strategy on Kraken or any other exchange.
 * **monitor.py**: Performance softwarte. Used to monitor the peformance of the algorythm through the use of visuals.
 
+### Major Assumptions
+* When Bitcoin is in a bull market, altcoins outperform Bitcoin relative to the USD
+* When Bitcoin is in a bear market, altcoins underperform 
+* SHRIMPY DEVELOPER API can Scale with our ALGORITHMIC TRADING APPLICATION
+* Momentum strategies are more successful than mean reversion in the crypto markets
+* Measuring OHLCV instead of tick-data is efficient for rolling calculus measurements
 
 ## How does Mantis Trading predict Bitcoin's performance?
 
