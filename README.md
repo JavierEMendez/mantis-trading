@@ -2,7 +2,7 @@
 
 ## What is Mantis Trading? 
 
-Mantis Trading is a trading firm that uses algorythmic trading to accumulate cryptocurrencies, with a focus on Bitcoin. 
+Mantis Trading is a trading firm that uses algorythmic trading to accumulate Bitcoin, with a focus on cryptocurrencies. 
 
 ### Team
 * Grant DePalma
