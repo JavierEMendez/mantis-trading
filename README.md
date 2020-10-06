@@ -2,7 +2,7 @@
 
 ## What is Mantis Trading? 
 
-Mantis Trading is a trading firm that uses algorithmic trading to accumulate Bitcoin, with a focus on cryptocurrencies. 
+Mantis Trading is a mock trading firm that uses algorithmic trading to accumulate Bitcoin, with a focus on cryptocurrencies built by the students, TA's, and Class Instructor during the 2020 Northwestern Fintech Bootcamp. 
 
 ### Team
 * Grant DePalma
@@ -33,7 +33,7 @@ Mantis Trading is a trading firm that uses algorithmic trading to accumulate Bit
 ## How does Mantis Trading predict Bitcoin's performance?
 
 ## Services used to get Mantis running
-* **Shrimpy**: API used to obtain Bitcoin and Altcoin data.
-* **Kraken**: Exchange linked to be able to trade the Mantis algorythm. 
-* **JupyterLab**: Used to do research, backtest, and create the LiveTrader function.
-* **Spyder**: Used for general troubleshooting, research, backtesting, and creating the LiveTrader function.
+* **Shrimpy Developers**: "Universal Crypto Exchange Trading API. The industry leading API for crypto trading, real-time data collection, and exchange account management. Execute trades across thousands of markets on every major exchange by taking advantage of the Shrimpy low latency execution endpoints for crypto trading." We used Shrimpy Developers to obtain Bitcoin and Altcoin historical data, retrieve real time information, and to execute live trading strategies across multiple Crypto Exchanges.
+* **Kraken**: "Kraken is a US-based cryptocurrency exchange, founded in 2011. The exchange provides cryptocurrency to fiat trading, and provides price information to Bloomberg Terminal. As of 2020, Kraken is available to residents of 48 U.S. states and 176 countries, and lists 40 cryptocurrencies available for trade." We linked Kraken to the Shimpy Developer API to execute our trades from Mantis algorithm. 
+* **JupyterLab**: "JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data. JupyterLab is flexible: configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning." We used JupyterLab to do research, backtest, and create our live trading functionality.
+* **Spyder**: Spyder is an open source cross-platform integrated development environment (IDE) for scientific programming in the Python language. We used for de-bugging and executing our software programs.
